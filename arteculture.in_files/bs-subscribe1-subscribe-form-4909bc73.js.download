@@ -1,0 +1,1 @@
+define("@widget/SUBSCRIBE/bs-subscribe1-subscribe-form-4909bc73.js",["exports","@widget/SUBSCRIBE/c/bs-subscribe-form"],(function(s,e){"use strict";class i extends e.SubscribeForm{constructor(s){super(s)}}s.default=i})),"undefined"!=typeof window&&(window.global=window);
